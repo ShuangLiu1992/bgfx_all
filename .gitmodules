@@ -18,3 +18,7 @@
 	path = meshoptimizer
 	url = ../meshoptimizer.git
 	branch = master
+[submodule "glslang"]
+	path = glslang
+	url = ../glslang.git
+	branch = main
