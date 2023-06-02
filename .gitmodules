@@ -22,3 +22,11 @@
 	path = glslang
 	url = ../glslang.git
 	branch = main
+[submodule "SPIRV-Tools"]
+	path = SPIRV-Tools
+	url = ../../KhronosGroup/SPIRV-Tools.git
+	branch = main
+[submodule "SPIRV-Headers"]
+	path = SPIRV-Headers
+	url = ../SPIRV-Headers.git
+	branch = main
