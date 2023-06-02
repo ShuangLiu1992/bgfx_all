@@ -2,3 +2,7 @@
 	path = bgfx
 	url = ../bgfx.git
 	branch = conan
+[submodule "bx"]
+	path = bx
+	url = ../bx.git
+	branch = conan
