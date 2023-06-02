@@ -1,0 +1,4 @@
+[submodule "bgfx"]
+	path = bgfx
+	url = ../bgfx.git
+	branch = conan
