@@ -34,3 +34,7 @@
 	path = SPIRV-Cross
 	url = ../SPIRV-Cross.git
 	branch = main
+[submodule "glsl-optimizer"]
+	path = glsl-optimizer
+	url = ../glsl-optimizer.git
+	branch = conan
