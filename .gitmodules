@@ -10,3 +10,7 @@
 	path = bimg
 	url = ../bimg.git
 	branch = bimg_conan
+[submodule "astc-encoder"]
+	path = astc-encoder
+	url = ../astc-encoder.git
+	branch = conan
