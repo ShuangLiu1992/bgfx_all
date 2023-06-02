@@ -6,3 +6,7 @@
 	path = bx
 	url = ../bx.git
 	branch = conan
+[submodule "bimg"]
+	path = bimg
+	url = ../bimg.git
+	branch = bimg_conan
