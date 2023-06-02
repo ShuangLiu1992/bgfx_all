@@ -30,3 +30,7 @@
 	path = SPIRV-Headers
 	url = ../SPIRV-Headers.git
 	branch = main
+[submodule "SPIRV-Cross"]
+	path = SPIRV-Cross
+	url = ../SPIRV-Cross.git
+	branch = main
